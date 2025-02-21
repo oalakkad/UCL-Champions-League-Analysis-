@@ -1,4 +1,4 @@
-# Football Database Project
+# UCL Champions League Analysis Database Project
 
 This project involves managing a football (soccer) database that includes information about teams, players, matches, and goals. The database is designed to store and retrieve data related to football matches, player statistics, and team performance.
 
